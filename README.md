@@ -4,7 +4,6 @@
 # Grading
 ![grading image](Grading.jpg)
 
-Supatsara Kurirung
 # สมาชิกในกลุ่ม
 กลุ่ม Midterm ชื่อ แนนปอยขิมเพอร์เฟค
 1. นางสาวศุภัสรา คุริรัง 633020447-5
